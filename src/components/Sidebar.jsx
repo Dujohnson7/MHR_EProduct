@@ -38,11 +38,11 @@ const Sidebar = ({ onClose }) => {
                                 <iconify-icon icon="solar:file-text-line-duotone"></iconify-icon>
                                 <span className="hide-menu">Product</span>
                             </a>
-                        </li>
+                        </li> 
                         <li className="sidebar-item">
                             <a className="sidebar-link" href="/import" aria-expanded="false">
                                 <iconify-icon icon="solar:layers-minimalistic-bold-duotone"></iconify-icon>
-                                <span className="hide-menu">Imports</span>
+                                <span className="hide-menu">Import</span>
                             </a>
                         </li>
                         <li className="sidebar-item">

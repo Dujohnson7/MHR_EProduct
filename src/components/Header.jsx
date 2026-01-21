@@ -22,7 +22,7 @@ const Header = ({ onToggleMobileSidebar }) => {
                                 <div className="message-body">
                                     <a href="#" className="d-flex align-items-center gap-2 dropdown-item">
                                         <i className="ti ti-user fs-6"></i>
-                                        <p className="mb-0 fs-3">My Profile</p>
+                                        <p className="mb-0 fs-3">Profile</p>
                                     </a>
                                     <Link to="/auth/login" className="btn btn-outline-primary mx-3 mt-2 d-block">Logout</Link>
                                 </div>
